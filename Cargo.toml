@@ -1,0 +1,5 @@
+[package]
+
+name = "AgileKeychain"
+version = "0.0.1"
+authors = ["main() <main@ehvag.de>"]
